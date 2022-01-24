@@ -1,3 +1,3 @@
 function funcName() {
-  console.log("Done");
+  alert("Your name has been submitted!")
 }
